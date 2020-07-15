@@ -1,0 +1,18 @@
+Data Types in Database
+
+SQL Data Types
+SQL data types can be broadly divided into following categories.
+
+Numeric data types such as int, tinyint, bigint, float, real etc.
+Date and Time data types such as Date, Time, Datetime etc.
+Character and String data types such as char, varchar, text etc.
+Unicode character string data types, for example nchar, nvarchar, ntext etc.
+Binary data types such as binary, varbinary etc.
+Miscellaneous data types – clob, blob, xml, cursor, table etc.
+
+Not all data types are supported by every relational database vendors.
+
+SQL Numeric Data Types:- bit, tinyint, smallint, int, bigint, decimal, numeric, float, real
+SQL Date and Time Data Types:- Date, Time, Datetime, Timestamp, Timestamp
+SQL Character and String Data Types:- Char, Varchar, text
+ 
