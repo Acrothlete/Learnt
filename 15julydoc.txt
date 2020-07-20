@@ -15,4 +15,5 @@ Not all data types are supported by every relational database vendors.
 SQL Numeric Data Types:- bit, tinyint, smallint, int, bigint, decimal, numeric, float, real
 SQL Date and Time Data Types:- Date, Time, Datetime, Timestamp, Timestamp
 SQL Character and String Data Types:- Char, Varchar, text
+
  
